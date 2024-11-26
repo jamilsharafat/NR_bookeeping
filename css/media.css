@@ -1,0 +1,269 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*banner*/
+	.b_content{
+		padding: 100px 0;
+	}
+	.b_content h1{
+		font-size: 50px;
+	}
+	.b_content h4{
+		font-size: 18px;
+	}
+	/*process*/
+	.process{
+		padding: 80px 0;
+	}
+	.p_h1{
+		font-size: 50px;
+	}
+	.p_item{
+		margin-top: 50px;
+	}
+	/*commitment*/
+	.commitment{
+		padding: 80px 0;
+	}
+	.c_h6{
+		font-size: 16px;
+	}
+	/*service*/
+	.services{
+		padding: 80px 0;
+	}
+	.s_h1{
+		font-size: 50px;
+	}
+	/*offering*/
+	.offering{
+		padding: 80px 0;
+	}
+	.o_content{
+		padding-top: 40px;
+		text-align: center;
+	}
+	/*team*/
+	.slider2{
+		padding: 80px 0;
+	}
+	.sl_h1{
+		font-size: 50px;
+	}
+	/*form*/
+	.form{
+		padding: 80px 0;
+	}
+	.faq{
+		padding-top: 40px;
+	}
+	/*contact*/
+	.contact{
+		padding: 80px 0 30px;
+	}
+	.co_h2{
+		font-size: 50px;
+	}
+	.co_p{
+		font-size: 25px;
+		font-weight: 400;
+	}
+	.co_plast{
+		font-size: 16px;
+	}
+	.c_icon ul{
+		justify-content: center;
+	}
+	.con_p{
+		justify-content: center;
+	}
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*banner*/
+	.b_content{
+		padding: 100px 0;
+	}
+	.b_content h1{
+		font-size: 50px;
+	}
+	.b_content h4{
+		font-size: 18px;
+	}
+	/*process*/
+	.process{
+		padding: 80px 0;
+	}
+	.p_h1{
+		font-size: 50px;
+	}
+	.p_item{
+		margin-top: 50px;
+	}
+	/*commitment*/
+	.commitment{
+		padding: 80px 0;
+	}
+	.c_h6{
+		font-size: 16px;
+	}
+	/*service*/
+	.services{
+		padding: 80px 0;
+	}
+	.s_h1{
+		font-size: 50px;
+	}
+	/*offering*/
+	.offering{
+		padding: 80px 0;
+	}
+	.o_content{
+		padding-top: 40px;
+		text-align: center;
+	}
+	/*team*/
+	.slider2{
+		padding: 80px 0;
+	}
+	.sl_lastp{
+		padding-top: 7px;
+	}
+	.sl_h1{
+		font-size: 50px;
+	}
+	/*form*/
+	.form{
+		padding: 80px 0;
+	}
+	.faq{
+		padding-top: 40px;
+	}
+	/*contact*/
+	.contact{
+		padding: 80px 0 30px;
+	}
+	.co_h2{
+		font-size: 50px;
+	}
+	.co_p{
+		font-size: 25px;
+		font-weight: 400;
+	}
+	.co_plast{
+		font-size: 16px;
+	}
+	.c_icon ul{
+		justify-content: center;
+	}
+	.con_p{
+		justify-content: center;
+	}
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*banner*/
+	.b_content h1{
+		font-size: 70px;
+	}
+	.b_content h4 {
+    font-size: 16px;
+    }
+    /*process*/
+    .process{
+    	padding: 80px 0;
+    }
+    .p_item h4 {
+    font-size: 18px;
+    }
+    /*commitment*/
+    .commitment{
+    	padding: 80px 0;
+    }
+    .c_h6 {
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+    }
+    /*offering*/
+    .o_h1 {
+    font-size: 48px;
+    padding-top: 10px;
+    }
+    .o_h4 {
+    font-size: 17px;
+    padding-top: 30px;
+    }
+    /*team*/
+    .sl_lastp {
+    padding-top: 0px;
+   }
+   /*form*/
+   .form{
+   	padding: 80px 0;
+   }
+   .faq{
+   	padding-top: 40px;
+   }
+   
+   /*contact*/
+   .contact{
+   	padding: 80px 0;
+   }
+   .con_p {
+    font-size: 19px;
+   }
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/*process*/
+	.p_item h4 {
+    font-size: 24px;
+    }
+    /*commitment*/
+    .c_h6 {
+    font-size: 22px;
+    }
+    .o_h1 {
+    font-size: 48px;
+    padding-top: 5px;
+    }
+    .o_h4 {
+    font-size: 16px;
+    padding-top: 40px;
+    }
+    /*team*/
+    .sl_text{
+	margin-top: 0;
+    }
+    .sl_lastp{
+    	padding-top: 0;
+    }
+    .s_border {
+   padding: 30px 25px 18px;
+   }
+   .faq h2 {
+    font-size: 30px;
+    }
+    .ui-accordion .ui-accordion-header {
+    font-size: 15px;
+    padding: 12px;
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	.o_h4 {
+    font-size: 18px;
+    
+    padding-top: 47px;
+    }
+}
+
+/* Extra extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+	
+}
